@@ -10,4 +10,4 @@
 
 - What does it mean to be a good team member in software development?
   - Being a good team member in software development means having a few important qualities such as effective communication, collaboration, and adaptability. Effective communication involves listening to others, giving clear and concise feedback, and asking questions to get a better understanding. Collaboration involves working with others and helping others when needed. Adaptibility involves being open to change, learning new skills, and being flexible when challenges or setbacks present themsevles. It's also important to be willing to learn from mistakes and to keep a positive attitude. 
-*
+
